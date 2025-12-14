@@ -6,13 +6,8 @@
 
 基于 Spring Boot + Vue3 前后端分离架构开发智能旅游推荐系统，核心集成 AI 智能推荐与协同过滤双算法，提供个性化景点推荐、门票预订、住宿查询、旅游攻略、收藏管理全流程服务，支撑普通游客（个性化需求匹配）与管理员（全量业务运维）两类用户场景，保障系统高可用与可扩展性。
 
-#### 核心技术栈
-
-- Spring Boot、Spring Security、Spring AI、MyBatis Plus、MySQL、Redis、JWT
-
-- Lombok、Knife4j (OpenAPI 文档)、Hutool 工具库、Alipay SDK
-
-- Vue3、Element Plus、Axios、Vue Router、Pinia、Sass
+#### 技术栈
+Spring Boot、Spring Security、Spring AI、MyBatis Plus、MySQL、Redis、JWT、Lombok、Knife4j (OpenAPI 文档)、Hutool 工具库、Alipay SDK、Vue3、Element Plus、Axios、Vue Router、Pinia、Sass
 
 #### 核心职责与技术亮点
 
